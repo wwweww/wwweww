@@ -7,6 +7,7 @@
 
 🌟 **My Skill**
 - Python
+- golang
 - JavaScript
 - Web crawler
 <br>
