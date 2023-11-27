@@ -12,4 +12,5 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwweww&layout=compact)](https://github.com/wwweww)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwweww&layout=compact)](https://github.com/wwweww)  
+vim重度依赖者(真不会用鼠标)
